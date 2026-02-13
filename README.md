@@ -7,8 +7,8 @@ A lightweight, fast system information fetcher written in **Swift**. Similar to 
 Ensure you have Swift 6.2 or later installed.
 
 ```bash
-git clone https://github.com/yourusername/swiftfetch.git
-cd swiftfetch
+git clone https://github.com/wenyhtt/swiftyfetch
+cd swiftyfetch
 swift build -c release
 ./build/release/swiftyfetch
 ```
@@ -18,7 +18,7 @@ swift build -c release
 Simply run the executable:
 
 ```bash
-./swiftfetch
+./swiftyfetch
 ```
 
 The tool will display your system information and an ASCII art logo.
